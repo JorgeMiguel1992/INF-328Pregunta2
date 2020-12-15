@@ -1,0 +1,9 @@
+c:\users\maik\documents\visual studio 2012\Projects\ConsumirServicio\ConsumirServicio\bin\Debug\ConsumirServicio.exe.config
+c:\users\maik\documents\visual studio 2012\Projects\ConsumirServicio\ConsumirServicio\bin\Debug\ConsumirServicio.exe
+c:\users\maik\documents\visual studio 2012\Projects\ConsumirServicio\ConsumirServicio\bin\Debug\ConsumirServicio.pdb
+c:\users\maik\documents\visual studio 2012\Projects\ConsumirServicio\ConsumirServicio\obj\Debug\ConsumirServicio.csprojResolveAssemblyReference.cache
+c:\users\maik\documents\visual studio 2012\Projects\ConsumirServicio\ConsumirServicio\obj\Debug\ConsumirServicio.Form1.resources
+c:\users\maik\documents\visual studio 2012\Projects\ConsumirServicio\ConsumirServicio\obj\Debug\ConsumirServicio.Properties.Resources.resources
+c:\users\maik\documents\visual studio 2012\Projects\ConsumirServicio\ConsumirServicio\obj\Debug\ConsumirServicio.csproj.GenerateResource.Cache
+c:\users\maik\documents\visual studio 2012\Projects\ConsumirServicio\ConsumirServicio\obj\Debug\ConsumirServicio.exe
+c:\users\maik\documents\visual studio 2012\Projects\ConsumirServicio\ConsumirServicio\obj\Debug\ConsumirServicio.pdb
